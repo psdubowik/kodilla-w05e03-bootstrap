@@ -1,0 +1,15 @@
+.container {
+    max-width: 800px;
+}
+
+.img-style {
+	opacity: 0.9;
+}
+
+.tab-main {
+	padding: 30px;
+}
+
+.modal-main {
+	margin-bottom: 30px;
+}
