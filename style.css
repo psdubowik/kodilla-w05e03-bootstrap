@@ -7,8 +7,8 @@
 	width: 100%;
 	height: auto;
 	max-height: 490px;
-	min-height: 278px;
-	object-fit: fill;
+	min-height: 490px;
+	object-fit: cover;
 }
 
 .tab-main {
@@ -17,4 +17,20 @@
 
 .modal-main {
 	margin-bottom: 30px;
+}
+
+@media (max-width: 992px) {
+	.img-style {
+		max-height: 490px;
+		min-height: 490px;
+		object-fit: cover;
+	}
+}
+
+@media (max-width: 768px) {
+	.img-style {
+		max-height: 278px;
+		min-height: 278px;
+		object-fit: cover;
+	}	
 }

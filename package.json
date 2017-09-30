@@ -1,0 +1,28 @@
+{
+  "name": "js_components_in_bootstrap",
+  "version": "1.0.0",
+  "description": "js in bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psdubowik/kodilla-w05e03-bootstrap.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "js",
+    "carousel"
+  ],
+  "author": "PSD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psdubowik/kodilla-w05e03-bootstrap/issues"
+  },
+  "homepage": "https://github.com/psdubowik/kodilla-w05e03-bootstrap#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^2.0.1"
+  }
+}
